@@ -138,9 +138,19 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
+## 🎮 Pac-Man Eating My Contributions
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+<p align="center">
+  <img src="https://img.shields.io/badge/GAME-LOADING-yellow?style=for-the-badge" alt="Game Loading">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MakwanaBhargav026/MakwanaBhargav026/output/pacman-contributions.svg" alt="Pac-Man Contribution Game" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9C%E2%AC%9C%E2%AC%9C%E2%AC%9C%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B-YUM!-FFFF00?style=for-the-badge" alt="Pac-Man">
+</p>
 
 ---
 
