@@ -60,101 +60,12 @@
 
 ---
 
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Harborlane</h3>
-      <p align="center">
-        <a href="https://github.com/MakwanaBhargav026/Harborlane" target="_blank">
-          <img src="https://img.icons8.com/color/144/000000/shopping-cart--v2.png" width="100" alt="Project"/>
-        </a>
-        <p align="center">
-          Smart self-checkout system for supermarkets using MERN stack and TypeScript
-        </p>
-        <p align="center">
-          <a href="https://github.com/MakwanaBhargav026/Harborlane" target="_blank">
-            <img src="https://img.shields.io/badge/Code-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Akshitara</h3>
-      <p align="center">
-        <a href="https://www.akshitaraayurved.com" target="_blank">
-          <img src="https://img.icons8.com/color/144/000000/natural-food.png" width="100" alt="Project"/>
-        </a>
-        <p align="center">
-          E-commerce platform for Ayurvedic products built with MERN stack
-        </p>
-        <p align="center">
-          <a href="https://github.com/MakwanaBhargav026/Akshitara" target="_blank">
-            <img src="https://img.shields.io/badge/Code-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://www.akshitaraayurved.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-          </a>
-        </p>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">GoldMovie</h3>
-      <p align="center">
-        <a href="https://github.com/MakwanaBhargav026/GoldMovie" target="_blank">
-          <img src="https://img.icons8.com/color/144/000000/cinema-.png" width="100" alt="Project"/>
-        </a>
-        <p align="center">
-          Movie review website with React frontend and Spring Boot backend
-        </p>
-        <p align="center">
-          <a href="https://github.com/MakwanaBhargav026/GoldMovie" target="_blank">
-            <img src="https://img.shields.io/badge/Code-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Dribbble Clone</h3>
-      <p align="center">
-        <a href="https://github.com/MakwanaBhargav026/Dribbble-Clone" target="_blank">
-          <img src="https://img.icons8.com/color/144/000000/dribbble.png" width="100" alt="Project"/>
-        </a>
-        <p align="center">
-          Design sharing platform built with HTML and CSS for responsive UI
-        </p>
-        <p align="center">
-          <a href="https://github.com/MakwanaBhargav026/Dribbble-Clone" target="_blank">
-            <img src="https://img.shields.io/badge/Code-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🐍 Snake Eating My Contributions
 
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
 ---
 
-## 🎯 Leadership Experience
-
-- Head of Audio and Visual Department – BAPS Chhattralay, Nadiad
-- Head of Video Editing Team – Sports Club (Dharmsinh Desai University)
-
----
-
-## 🏆 Achievements
-- AWS Certified – AWS Academy Graduate (Expected 2025)
-
----
 
 ## 📊 Github Stats & Recent Languages
 
@@ -169,15 +80,7 @@
 
 ---
 
-### 🎨 Creative Skills
-- **Video Editing**: Adobe Premiere Pro, After Effects
-- **Graphic Design**: Adobe Photoshop, Illustrator
 
-### 🤝 Soft Skills
-- Problem-solving & Leadership
-- Teamwork, Time Management & Communication
-
----
 
 <p align="center">
   <i>Let's connect and collaborate!</i>
