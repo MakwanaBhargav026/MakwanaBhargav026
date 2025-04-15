@@ -1,5 +1,5 @@
 <p align="right">  
-	<img src="https://komarev.com/ghpvc/?username=MakwanaBhargav026&label=Profile%20views&color=0e75b6&style=plastic" alt="MakwanaBhargav026" /> 
+	<img src=img.png.png" /> 
 </p> 
 
 <h1 align="center">Hi 👋, I'm Bhargav Makwana</h1> 
