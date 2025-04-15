@@ -1,6 +1,4 @@
-<p align="right">  
-	<img src="img.png.png" /> 
-</p> 
+
 
 <h1 align="center">Hi 👋, I'm Bhargav Makwana</h1> 
 
