@@ -1,100 +1,193 @@
-# 👨‍💻 Bhargav Makwana
+<p align="right">  
+	<img src="https://komarev.com/ghpvc/?username=MakwanaBhargav026&label=Profile%20views&color=0e75b6&style=plastic" alt="MakwanaBhargav026" /> 
+</p> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makwana-bhargav/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavmakwana26004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/MakwanaBhargav026)
+<h1 align="center">Hi 👋, I'm Bhargav Makwana</h1> 
 
-## 🚀 About Me
-IT Engineering student at Dharmsinh Desai University with expertise in full-stack development, networking, and building scalable web applications. Passionate about creating efficient solutions and leveraging modern technologies.
+<p align="center"> 
+   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?lines=Hi!;I+am+a+Full+Stack+Developer%20;And+an+IT+Engineering+student;Learning+Spring+Boot;Always%20ready%20to%20go%20for%20new%20tech..;Thank+you+for+visiting!!;&size=30&color=4AF626&center=true&width=650&height=50">
+   </a> 
+</p> 
 
-## 🎓 Education
-- **B.Tech in Information Technology** | Dharmsinh Desai University, Nadiad | 2022-2026
-  - CPI: 7.51
+- 👋 Hi, I'm Bhargav Makwana from Vadodara
 
-## 💻 Technical Skills
+- 👀 I'm interested in *Full Stack Development*, *Video Editing* and *UI/UX Design*
+  
+- 🌱 I'm currently learning *Spring Boot* and *AWS*
+ 
+- 📫 How to reach me *bhargavmakwana26004@gmail.com*
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- 🎓 Pursuing B.Tech in Information Technology at *Dharmsinh Desai University* (2022-2026)
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- ⚡ Fun fact *I create cinematic videos when I'm not coding*
 
-### Frameworks & Libraries
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+---
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/makwana-bhargav/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="mailto:bhargavmakwana26004@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="40" />
+</a>
+</p> 
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+---
 
-## 🏆 Projects
+<h3 align="left">Languages and Tools:</h3>
 
-### 🛒 [Harborlane](https://github.com/MakwanaBhargav026/Harborlane)
-Smart self-checkout system for supermarkets developed using the MERN stack and TypeScript.
-- Customers can scan products, make payments, and generate bills
-- Enhanced with ShadCN UI for modern user interface components
-- Implemented type safety with TypeScript for better code maintainability
+<p align="left">
+   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premiere" width="40" height="40"/></a>
+</p>
 
-### 🌿 [Akshitara](https://github.com/MakwanaBhargav026/Akshitara)
-E-commerce platform for Ayurvedic products built with the MERN stack.
-- Provides seamless shopping experience for users
-- Successfully deployed on Hostinger
-- Live website: [www.akshitaraayurved.com](https://www.akshitaraayurved.com)
+---
 
-### 🎬 [GoldMovie](https://github.com/MakwanaBhargav026/GoldMovie)
-Movie review website featuring trailers and ratings.
-- Frontend developed with React
-- Backend powered by Spring Boot
-- MongoDB integration for database management
-- Features include movie trailers, user ratings, and review comments
+## 🚀 Projects
 
-### 🎨 [Dribbble Clone](https://github.com/MakwanaBhargav026/Dribbble-Clone)
-Design sharing platform modeled after Dribbble.
-- Developed with HTML and CSS for responsive design
-- Features user profiles, design uploads, blogs, and like system
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Harborlane</h3>
+      <p align="center">
+        <a href="https://github.com/MakwanaBhargav026/Harborlane" target="_blank">
+          <img src="https://img.icons8.com/color/144/000000/shopping-cart--v2.png" width="100" alt="Project"/>
+        </a>
+        <p align="center">
+          Smart self-checkout system for supermarkets using MERN stack and TypeScript
+        </p>
+        <p align="center">
+          <a href="https://github.com/MakwanaBhargav026/Harborlane" target="_blank">
+            <img src="https://img.shields.io/badge/Code-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Akshitara</h3>
+      <p align="center">
+        <a href="https://www.akshitaraayurved.com" target="_blank">
+          <img src="https://img.icons8.com/color/144/000000/natural-food.png" width="100" alt="Project"/>
+        </a>
+        <p align="center">
+          E-commerce platform for Ayurvedic products built with MERN stack
+        </p>
+        <p align="center">
+          <a href="https://github.com/MakwanaBhargav026/Akshitara" target="_blank">
+            <img src="https://img.shields.io/badge/Code-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://www.akshitaraayurved.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+          </a>
+        </p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">GoldMovie</h3>
+      <p align="center">
+        <a href="https://github.com/MakwanaBhargav026/GoldMovie" target="_blank">
+          <img src="https://img.icons8.com/color/144/000000/cinema-.png" width="100" alt="Project"/>
+        </a>
+        <p align="center">
+          Movie review website with React frontend and Spring Boot backend
+        </p>
+        <p align="center">
+          <a href="https://github.com/MakwanaBhargav026/GoldMovie" target="_blank">
+            <img src="https://img.shields.io/badge/Code-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Dribbble Clone</h3>
+      <p align="center">
+        <a href="https://github.com/MakwanaBhargav026/Dribbble-Clone" target="_blank">
+          <img src="https://img.icons8.com/color/144/000000/dribbble.png" width="100" alt="Project"/>
+        </a>
+        <p align="center">
+          Design sharing platform built with HTML and CSS for responsive UI
+        </p>
+        <p align="center">
+          <a href="https://github.com/MakwanaBhargav026/Dribbble-Clone" target="_blank">
+            <img src="https://img.shields.io/badge/Code-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 🎖 Achievements
-- AWS Certified – AWS Academy Graduate (Expected 2025)
+---
 
-## 🎨 Creative Skills
-- **Video Editing**: Adobe Premiere Pro, After Effects
-- **Graphic Design**: Adobe Photoshop, Illustrator
+## 🐍 Snake Eating My Contributions
 
-## 🤝 Soft Skills
-- Problem-solving & Leadership
-- Teamwork, Time Management & Communication
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
-## 🏃‍♂️ Leadership Experience
+---
+
+## 🎯 Leadership Experience
+
 - Head of Audio and Visual Department – BAPS Chhattralay, Nadiad
 - Head of Video Editing Team – Sports Club (Dharmsinh Desai University)
 
-## 📊 GitHub Stats
+---
 
-![Bhargav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakwanaBhargav026&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakwanaBhargav026&layout=compact&theme=radical)
-
-## 📫 Let's Connect!
-Feel free to reach out for collaborations or just a chat!
-- Email: bhargavmakwana26004@gmail.com
-- LinkedIn: [Makwana Bhargav](https://www.linkedin.com/in/makwana-bhargav/)
-- Location: Vadodara, Gujarat, India
+## 🏆 Achievements
+- AWS Certified – AWS Academy Graduate (Expected 2025)
 
 ---
-⭐️ From [MakwanaBhargav026](https://github.com/MakwanaBhargav026)
+
+## 📊 Github Stats & Recent Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MakwanaBhargav026&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakwanaBhargav026&layout=compact&theme=radical" alt="MakwanaBhargav026" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakwanaBhargav026&theme=radical" alt="MakwanaBhargav026" />
+</p>
+
+---
+
+### 🎨 Creative Skills
+- **Video Editing**: Adobe Premiere Pro, After Effects
+- **Graphic Design**: Adobe Photoshop, Illustrator
+
+### 🤝 Soft Skills
+- Problem-solving & Leadership
+- Teamwork, Time Management & Communication
+
+---
+
+<p align="center">
+  <i>Let's connect and collaborate!</i>
+</p>
+
+<p align="center">
+  <a href="mailto:bhargavmakwana26004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/makwana-bhargav/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
