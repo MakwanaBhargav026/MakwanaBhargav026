@@ -108,11 +108,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
-<h1 align="center">👋 Hey there! I'm Bhargav Makwana</h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Cinematic+Video+Editor+%F0%9F%8E%A5;Welcome+to+my+GitHub+Profile!">
-  </a>
-</p>
 
